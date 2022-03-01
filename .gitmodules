@@ -10,3 +10,6 @@
 [submodule "subcomponents/496ccnnxal"]
 	path = subcomponents/496ccnnxal
 	url = git@github.com:ztuckermustdie/dog
+[submodule "subcomponents/4brlrxos0sq"]
+	path = subcomponents/4brlrxos0sq
+	url = git@github.com:ztuckermustdie/dog
