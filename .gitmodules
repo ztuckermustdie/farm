@@ -1,0 +1,6 @@
+[submodule "subcomponents/9cgiuwz5eua"]
+	path = subcomponents/9cgiuwz5eua
+	url = git@github.com:ztuckermustdie/pig
+[submodule "subcomponents/4dkd3edvy57"]
+	path = subcomponents/4dkd3edvy57
+	url = git@github.com:ztuckermustdie/cat
