@@ -13,3 +13,6 @@
 [submodule "subcomponents/4brlrxos0sq"]
 	path = subcomponents/4brlrxos0sq
 	url = git@github.com:ztuckermustdie/dog
+[submodule "subcomponents/htpqpazincs"]
+	path = subcomponents/htpqpazincs
+	url = ssh://git@gitboi.quarkseven.com:2222/zachgithub/dragon
